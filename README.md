@@ -26,5 +26,20 @@ The goal of this project is to analyze sales data and create useful business ins
 - `powerbi/` - Power BI dashboard file
 - `images/` - dashboard screenshots
 
-## Status
-In progress.
+## Project Progress
+- Dataset added
+- SQL analysis queries added
+- Python analysis script added
+- Power BI dashboard not started yet
+
+## Key Insights So Far
+Based on the sample dataset:
+- Total sales can be calculated using SQL and Python
+- Sales can be grouped by region, product, and category
+- Best-selling products can be identified using quantity sold
+- Monthly sales trends can be analyzed from the order date
+
+## Next Steps
+- Create a Power BI dashboard
+- Add dashboard screenshots
+- Write final business recommendations
