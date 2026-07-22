@@ -1,3 +1,7 @@
+## Dashboard Preview
+
+![Sales Dashboard](images/sales_dashboard.png)
+
 # Sales Data Analysis
 
 This is a beginner data analytics portfolio project using SQL, Power BI, and Python.
@@ -30,14 +34,21 @@ The goal of this project is to analyze sales data and create useful business ins
 - Dataset added
 - SQL analysis queries added
 - Python analysis script added
-- Power BI dashboard not started yet
+- Power BI dashboard added
+- Dashboard screenshot added
 
-## Key Insights So Far
-Based on the sample dataset:
-- Total sales can be calculated using SQL and Python
-- Sales can be grouped by region, product, and category
-- Best-selling products can be identified using quantity sold
-- Monthly sales trends can be analyzed from the order date
+## Key Insights
+- Total sales were RM15,370.
+- Laptop had the highest sales at RM7,500.
+- North was the top-performing region with RM6,600 in sales.
+- Electronics was the strongest category, contributing the largest share of sales.
+- January had the highest monthly sales.
+
+## Business Recommendations
+- Focus marketing efforts on laptops because they generated the highest sales.
+- Review performance in the South region and identify ways to improve sales.
+- Keep electronics products well-stocked because they are the strongest category.
+- Study January promotions or customer behavior to understand why sales were highest.
 
 ## Next Steps
 - Create a Power BI dashboard
