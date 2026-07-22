@@ -36,6 +36,7 @@ The goal of this project is to analyze sales data and create useful business ins
 - Python analysis script added
 - Power BI dashboard added
 - Dashboard screenshot added
+- Project completed
 
 ## Key Insights
 - Total sales were RM15,370.
@@ -50,7 +51,13 @@ The goal of this project is to analyze sales data and create useful business ins
 - Keep electronics products well-stocked because they are the strongest category.
 - Study January promotions or customer behavior to understand why sales were highest.
 
-## Next Steps
-- Create a Power BI dashboard
-- Add dashboard screenshots
-- Write final business recommendations
+## Status
+Completed
+
+## Future Improvements
+- Add more rows to the dataset
+- Create more advanced SQL queries
+- Add interactive Power BI filters
+- Compare monthly sales performance over a longer period
+
+
